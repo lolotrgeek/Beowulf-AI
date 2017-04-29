@@ -1,0 +1,37 @@
+{
+  "name": "beo",
+  "version": "0.0.1",
+  "description": "Beowulf AI",
+  "main": "beowulf.js",
+  "dependencies": {
+    "bleno": "^0.4.2",
+    "clusters": "0.0.4",
+    "gun": "^0.7.4",
+    "ip": "^1.1.5",
+    "noble": "^1.8.1",
+    "node-machine-id": "^1.1.4",
+    "node-schedule": "^1.2.1",
+    "onoff": "^1.1.2",
+    "q": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolotrgeek/Beowulf-AI.git"
+  },
+  "keywords": [
+    "beo",
+    "ai",
+    "cluster",
+    "node"
+  ],
+  "author": "lolotrgeek",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lolotrgeek/Beowulf-AI/issues"
+  },
+  "homepage": "https://github.com/lolotrgeek/Beowulf-AI#readme"
+}
