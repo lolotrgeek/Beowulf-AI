@@ -5,7 +5,7 @@ An example build of The Cluster. Beowulf AI is a series of bluetooth connected n
 
 To replicate this early build run Beowulf on three raspberry pi 3's in ble range with motion sensors attached to GPIO pin 14 (pin 8 on the board).
 
-Requires node version 7.9.0 and npm 4.2.0
+Requires node 5.0.0 and npm 3.3.6
 
 ### Install
 
