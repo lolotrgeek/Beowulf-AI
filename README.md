@@ -43,9 +43,13 @@ When learning it sometimes crashes, need to build in better handler to revive de
 
 ### TODO
 refactor: clear globals, refine, error handling, logging
+
 IP to BLE rangefinder
+
 implement consolidation algorithm
-make it more modular
+
+make modular
+
 dream state
 
 ## Built With
@@ -58,7 +62,7 @@ dream state
 
 ## License
 
-This project is licensed under the Apache-2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache-2.0 License - see the [LICENSE.md](https://github.com/lolotrgeek/the-cluster/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
